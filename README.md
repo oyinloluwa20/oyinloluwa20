@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oyinloluwa
-- 👀 I am a fullstack web2 and web3 developer, i also work with deep learning models for artificialkintelligence
-- 💞️ I am presently a freelance developer looking for any opportunity to collaborate on any web2 and web3 projects
+- 👀 I am a fullstack web2 and web3 developer, i also work with deep learning models for artificial intelligence
+- 💞️ I am a developer looking for a job opportunity to work and collaborate on any  project using the MERN stack
 - 📫 you can reach me at oyinloluwa20@gmail.com, 08118522218
 
 <!---
